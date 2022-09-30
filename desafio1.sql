@@ -88,7 +88,7 @@ INSERT INTO SpotifyClone.plano(plano, valor_plano)
 	(2,	'Don’t Stop Me Now', 203),
 	(3,	'Under Pressure', 152),
 	(4,	'Como Nossos Pais', 105),
-	(5,	'O Medo de Amar é o  Medo de Ser Livre', 207),
+	(5,	'O Medo de Amar é o Medo de Ser Livre', 207),
 	(6,	'Samba em Paris', 267),
 	(7,	'The Bard’s Song', 244),
 	(8, 'Feeling Good', 100);
